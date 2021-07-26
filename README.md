@@ -2,7 +2,7 @@
 
 I'm Peter, a developer, entrepreneur, and writer. 🔭 
 
-👷️ [Laravel](https://github.com/laravel/laravel) and [VueJS](https://github.com/vuejs/vue)/[Alpine](https://github.com/alpinejs/alpine) are ✨️
+👷️ [Laravel](https://github.com/laravel/laravel) and [Livewire](https://github.com/livewire/livewire), [VueJS](https://github.com/vuejs/vue)/[Alpine](https://github.com/alpinejs/alpine) are ✨️
 
 🏗️ I love building stuff. At the moment I'm working on [PHPScraper](https://github.com/spekulatius/phpscraper) and the [Commonmark Blog for Laravel](https://github.com/spekulatius/laravel-commonmark-blog). I'm also contributing to open-source projects such as [PuPHPeteer](https://github.com/rialto-php/puphpeteer) and [Spatie's Crawler](https://github.com/spatie/crawler) 🤩️
 
