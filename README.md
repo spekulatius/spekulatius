@@ -2,7 +2,7 @@
 
 I'm Peter, a developer, entrepreneur, and writer. 🔭 
 
-👷️ [Laravel](https://github.com/laravel/laravel) with [Livewire](https://github.com/livewire/livewire) and [Filament](https://github.com/laravel-filament/filament) are great ✨️ The TALL Stack quickly became my primary go-to tool set 🤩️
+👷️ [Laravel](https://github.com/laravel/laravel) with [Livewire](https://github.com/livewire/livewire) and [Filament](https://github.com/laravel-filament/filament) are my stack ✨️ The TALL Stack quickly became my primary go-to tool set 🤩️
 
 🏗️ I love building stuff. At the moment I'm working on [PHPScraper](https://github.com/spekulatius/phpscraper) and the [Commonmark Blog for Laravel](https://github.com/spekulatius/laravel-commonmark-blog).
 
