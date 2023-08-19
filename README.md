@@ -2,7 +2,7 @@
 
 I'm Peter, a developer with a passion for open source & InfoSec! 😎 I'm a fan of Linux, Bash and Tool builder 💻
 
-🧰 I'm inspired by great tool makers such as [Tomnomnom](https://github.com/tomnomnom). If you are keen to follow [my tools](https://github.com/spekulatius?tab=repositories&q=&type=source&language=&sort=), please star your favourites and follow me 🌟
+🧰 Great developers & security researchers like [Tom Hudson (tomnomnom)](https://github.com/tomnomnom) and [Johan Carlsson (joaxcar)](https://hackerone.com/joaxcar?type=user) inspire my work. If you are keen you can check [my tools & open-source projects](https://github.com/spekulatius?tab=repositories&q=&type=source&language=&sort=) too.
 
 👷️ When it comes to developing web-apps, [Laravel](https://github.com/laravel/laravel) with [Livewire](https://github.com/livewire/livewire) and [Filament](https://github.com/filamentphp/filament) are my stack ✨️🤩️
 
